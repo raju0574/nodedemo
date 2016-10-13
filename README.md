@@ -1,2 +1,0 @@
-# nodedemo
-Node RESTWebAPI Demo
