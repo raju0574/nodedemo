@@ -1,0 +1,22 @@
+{
+  "name": "node-webapi-demo",
+  "version": "1.0.0",
+  "description": "A sample Node WEBAPI app using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raju0574/nodedemo.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
